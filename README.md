@@ -56,10 +56,3 @@ I build cloud-native software on **Microsoft Azure** — from reusable **SDKs an
 Add this section once you have community projects or contributions, e.g.:
 - [project-name](link) — one-line description
 -->
-
-### 📊 GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=operationd8979&show_icons=true&hide_border=true&theme=transparent&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=operationd8979&layout=compact&hide_border=true&theme=transparent" alt="top languages"/>
-</p>
